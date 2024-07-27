@@ -17,23 +17,6 @@ This project is a simple calculator application built using HTML, CSS, and JavaS
 
 - A modern web browser (e.g., Chrome, Firefox, Safari, Edge).
 
-### Installation
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone <repository-url>
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd <project-directory>
-    ```
-
-3. **Open the `index.html` file in your browser:**
-
-    Simply double-click the `index.html` file to open it in your default web browser.
 
 ## Files
 
@@ -71,6 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by modern web design principles and user interface design.
 - Built using HTML, CSS, and JavaScript.
 
-## Contact
-
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
